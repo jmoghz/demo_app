@@ -7,7 +7,7 @@ gem 'rails', '3.0.8'
 
 # For heroku deploy, leave next line blank 
 
-gem 'sqlite3-ruby', '1.3.2', :group => :development
+# gem 'sqlite3-ruby', '1.3.2', :group => :development
 
 # Use unicorn as the web server
 # gem 'unicorn'
